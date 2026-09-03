@@ -6,7 +6,7 @@ The project explores how Artificial Intelligence and Computer Vision can be used
 
 ---
 
-## 🚀 Project Overview
+##  Overview
 
 The **AI Cartoonization System** is designed to transform a standard input image into a cartoon-like version while preserving important visual characteristics such as edges, shapes, and colors.
 
@@ -16,16 +16,16 @@ This project demonstrates the practical application of **Computer Vision and Ima
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🖼️ Upload an image for processing
-- 🎨 Convert photographs into cartoon-style images
-- 🧠 Computer Vision-based image transformation
-- ✏️ Edge detection and image processing
-- 🌈 Color smoothing and stylization
-- ⚡ Fast image processing
-- 💻 Interactive user interface
-- 📥 Generate and view cartoonized outputs
+-  Upload an image for processing
+-  Convert photographs into cartoon-style images
+-  Computer Vision-based image transformation
+-  Edge detection and image processing
+-  Color smoothing and stylization
+-  Fast image processing
+-  Interactive user interface
+-  Generate and view cartoonized outputs
 
 ---
 
